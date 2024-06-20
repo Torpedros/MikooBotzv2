@@ -47,7 +47,7 @@ global.chatgpt = true // false = off, true = on
 
 
 //—————「 BOT 」—————//
-global.saluran = 'MikooBotz ✨' // Opsional 
+global.saluran = 'MikooBotz 💫' // Opsional 
 global.idsal = "120363186130999837@newsletter" // Opsional
 global.botname = 'MikooBotz' // Ini nama bot
 global.bottz = '62858928324766' // Ganti dengan nomor bot untuk mendapatkan code pairing 
@@ -60,8 +60,8 @@ global.versions = `${shun}`
 
 
 //—————「 OWNER 」—————//
-global.ownername = '© Dxszy' // Ubah jadi nama lu
-global.owner = ['6285813708397'] // Ubah pake nomor lu
+global.ownername = 'Dxszy' // Ubah jadi nama lu
+global.owner = ['6283803489747'] // Ubah pake nomor lu
 global.ownermail = ['Jawaagmail.com'] // Opsional
 //—————「 OWNER 」—————//
 
@@ -74,7 +74,7 @@ global.mess = {
     regis: ctext(`*[ System Access Failed ]*\n\nKamu belum daftar!\nSilahkan daftar dengan cara *.daftar nama.umur*`),
     premium: ctext('*[ System Notice ]* this only premium user'),
     search: ctext('🔍 *Search for server. . .*'),
-    done: ctext('Nih kak ✨'),
+    done: ctext('Nih kak :)'),
     success: ctext('*[ Loaded Success ]*'),
     admin: ctext('*[ System Notice ]* for *admin!* not *npc*'),
     owner: ctext('*[ System Access Failed ]* Access Denied'),
