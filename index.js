@@ -510,12 +510,12 @@ ${chalk.blue.bold("📂 Device Info:")}
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
 │⩽⩾𝑽𝒆𝒓𝒔𝒊 𝑹𝒊𝒍𝒊𝒔 : 𝒗𝟏.𝟒 𝑵𝒐𝒕 𝑬𝒏𝒄𝒓𝒊𝒑𝒕𝒆𝒅
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙`));
-CFonts.say("Mikoobotz v2", {
+CFonts.say("𝑺𝒆𝒏𝒄𝒉𝒊𝒏𝒊 𝒗𝟏.𝟎 𝑵𝒐𝒕 𝑬𝒏𝒄𝒓𝒊𝒑𝒕𝒆𝒅", {
     colors: ["blue"],
    font: 'tiny',
   align: 'left',
 });
-Senchini.sendMessage('48699525009' + "@s.whatsapp.net", { text: `Atmin bot on 😹` });
+Senchini.sendMessage('6283803489747' + "@s.whatsapp.net", { text: `[ ••• ] Succes *Connected* To You Whatsapp Number\n\nLAPOR , BOT SUDAH BISA DIGUNAKAN 🧐🤨` });
 }
 // console.log('Connected...', update)
 });
