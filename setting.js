@@ -50,7 +50,7 @@ global.chatgpt = true // false = off, true = on
 global.saluran = 'MikooBotz 💫' // Opsional 
 global.idsal = "120363186130999837@newsletter" // Opsional
 global.botname = 'MikooBotz' // Ini nama bot
-global.bottz = '48699525009' // Ganti dengan nomor bot untuk mendapatkan code pairing 
+global.bottz = '6283803489747' // Ganti dengan nomor bot untuk mendapatkan code pairing 
 global.packname = 'Mikoo' // wm sticker
 global.author = `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nCreator: Dxsz\nBot: +62858928324766` // wm sticker
 global.prefa = ['','!','.',',','🐤','🗿']
